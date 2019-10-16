@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Playground</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="pago_cel">Pagar</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_ruta1">Ruta 1</string>
+    <string name="menu_ruta2">Ruta 2</string>
+    <string name="menu_ruta3">Ruta 3</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
